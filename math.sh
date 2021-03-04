@@ -10,3 +10,7 @@ echo $mul
 
 add=$(( $n1 + $n2 ))
 echo $add
+
+sub=$(( $n1 - $n2 ))
+echo $sub
+
